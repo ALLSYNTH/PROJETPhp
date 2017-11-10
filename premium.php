@@ -97,7 +97,7 @@ else {
 
 		?>
 
-
+		<h2>Jeu concours</h2>
 
 
 		<?php 
